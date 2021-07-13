@@ -1,0 +1,44 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+#wrap{
+    width: 100vw;
+    margin: auto;
+    height: 100vh; 
+    background: #c58c12;
+}
+header h1{
+    padding: 0px 0px 0px;
+    color: white;
+    font-size:40px;
+}
+header nav ul{
+    list-style: none;
+    padding-left: 0px 0px;
+}
+
+header nav ul li a:hover{
+    text-decoration: underline;
+}
+#centre {
+    float:left;
+    margin: 0px 10px 0px 0px;
+    width:720px;
+    height:850px;
+    background: #e9c00a;
+    font-size:30px;
+}
+section{
+    margin: auto 10px;
+}
+section p {
+    color: white;
+}
+section ul a {
+    color: white;
+    text-decoration: none;
+    list-style:none;
+}
+a:hover{
+    text-decoration:underline;
+}
